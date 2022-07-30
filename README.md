@@ -14,3 +14,6 @@ Anschließend sollte das Notebook evaluiert werden.
 
 ## Acknowledgements
 Die Daten `s-h.xlsx`, `Acc.csv`, `gps.xls` wurden von [johnzoki](https://github.com/johnzoki) zur Verfügung gestellt. Darüber hinaus war [johnzoki](https://github.com/johnzoki) für das Design verantwortlich. Währendessen [PantomInach](https://github.com/PantomInach) für die Umsetzung in Mathematica zuständig war.
+
+## Example
+![Example picture](https://github.com/PantomInach/some-line-diagram/blob/main/example.png)
